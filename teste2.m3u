@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1
+
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_720p_high.m3u8
+#EXTINF:-2
+https://m3u9.ml/a2/hls1/hboxtreme-bk.m3u8?
+#EXTINF:-3
+https://m3u9.ml/a2/hls1/megapix-bk.m3u8?
+#EXTINF:-4
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+#EXTINF:-5
+https://connecttvapp.xyz/mgf4c18/mgf239161/9.m3u8
